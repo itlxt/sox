@@ -1,6 +1,10 @@
 {
   "students": [
     {
+      "id": "2027101",
+      "name": "AFNAN AMIN"
+    },
+    {
       "id": "1090302027SCID101",
       "name": "SUMI"
     },
@@ -26,7 +30,7 @@
     },
     {
       "id": "1090302026HUMM60",
-      "name": "SADIYA SULTANA MADOBI"
+      "name": "SADIYASULTANAMADOBI"
     },
     {
       "id": "1090302025HUMD346",
@@ -5069,16 +5073,189 @@
       "name": "MSTSRABONTI AKTER"
     },
     {
-      "id": "1146782026HUMD1101",
-      "name": "SOA MONI"
+      "id": "1146782026HUMD1132",
+      "name": "ANONYA AKTHER"
     },
     {
+<<<<<<< Updated upstream
       "id": "1079802027SCID101",
       "name": "HELLO"
     },
     {
       "id": "1146782027SCID10",
       "name": "NENI"
+=======
+      "id": "1090302025OTHM1004",
+      "name": "JESMIN SULTANA"
+    },
+    {
+      "id": "1090302026HUMM324",
+      "name": "SOMAPTI SINHA"
+    },
+    {
+      "id": "1048512026SCID37",
+      "name": "AFRIN JAHAN TAHASIN"
+    },
+    {
+      "id": "1090302027HUMD412",
+      "name": "MST.SHIFA AKTER"
+    },
+    {
+      "id": "1090302025OTHD1022",
+      "name": "TAHAMINA AKTER MIM"
+    },
+    {
+      "id": "1090302025OTHD1150",
+      "name": "RITU AKTER"
+    },
+    {
+      "id": "1090302026BUSD423",
+      "name": "RAKATUNNAHAR PURNOTA"
+    },
+    {
+      "id": "1090302026SCID111",
+      "name": "UMME KULSUM TAYYEBAH"
+    },
+    {
+      "id": "1090302025OTHD100023",
+      "name": "MST.FARJANA AKTER MITU"
+    },
+    {
+      "id": "1146782026HUMD1149",
+      "name": "PAYEL AKTER"
+    },
+    {
+      "id": "1090302025SCID2012",
+      "name": "FORIDA YASMIN"
+    },
+    {
+      "id": "1090302025OTHD2222",
+      "name": "NISHAT TASNIM EMA"
+    },
+    {
+      "id": "1090302026SCID170111",
+      "name": "MIKASA"
+    },
+    {
+      "id": "1090302025HUMD80",
+      "name": "AIRIN SHULTANA"
+    },
+    {
+      "id": "1090302025HUMD250062",
+      "name": "JUI AKTER"
+    },
+    {
+      "id": "1090302025HUMD72",
+      "name": "ESRAT JAHAN"
+    },
+    {
+      "id": "1090302025HUMD2005",
+      "name": "SUMAIYA NAZNIN ESHA"
+    },
+    {
+      "id": "1090302025OTHD62",
+      "name": "TAHMINA SULTANA"
+    },
+    {
+      "id": "1090302025HUMD24",
+      "name": "FAHOMIDA FERDOSH TITHI"
+    },
+    {
+      "id": "1090302026HUMD56",
+      "name": "SUMIYA"
+    },
+    {
+      "id": "1090302025HUMM1045",
+      "name": "NADIA ANJUM BORSHA"
+    },
+    {
+      "id": "1090302025SCIM1044",
+      "name": "KAZI KISHORI SULTANA MYVE"
+    },
+    {
+      "id": "1090302025SCID84",
+      "name": "SABIHA MIM"
+    },
+    {
+      "id": "1090302027SCID201",
+      "name": "AKHI AKTER ALO"
+    },
+    {
+      "id": "1090302026SCID99",
+      "name": "SURAIYA"
+    },
+    {
+      "id": "1090302026HUMD13",
+      "name": "JAKEYA SULTANA"
+    },
+    {
+      "id": "1090302026BUSD390",
+      "name": "ESTER KORMOKER"
+    },
+    {
+      "id": "1090302025BUSD187",
+      "name": "AMENA AKTER"
+    },
+    {
+      "id": "1090302026BUSD214",
+      "name": "LIZA AKTER NOPUR"
+    },
+    {
+      "id": "1090302025OTHD93",
+      "name": "HUMAYRA KABIR SNIGDA"
+    },
+    {
+      "id": "1090302027HUMD49",
+      "name": "JARIN JAHAN"
+    },
+    {
+      "id": "1090302025OTHM23",
+      "name": "NAIMA AKTER SIFA"
+    },
+    {
+      "id": "1090302026SCID171",
+      "name": "BRISTY"
+    },
+    {
+      "id": "1090302025HUMM163",
+      "name": "SADIA ISLAM KAKON"
+    },
+    {
+      "id": "1090302026SCIM556",
+      "name": "HAMIM HUSSAIN"
+    },
+    {
+      "id": "1090302025HUMM74",
+      "name": "MST LATA KHATUN"
+    },
+    {
+      "id": "1090302027SCIM66",
+      "name": "MARIAM MUNTAHA"
+    },
+    {
+      "id": "1082642027SCID26",
+      "name": "RAISA"
+    },
+    {
+      "id": "24542455202HUMD7HUMD385365",
+      "name": "MD SHAKIB"
+    },
+    {
+      "id": "1234562025HUMD25465",
+      "name": "JANAN AKTER"
+    },
+    {
+      "id": "1090302026BUSD146",
+      "name": "BILKIS ISLAM TOYA"
+    },
+    {
+      "id": "1090302025BUSD168",
+      "name": "SUMAIYA AFRIN ARPI"
+    },
+    {
+      "id": "1079752026BUSM118",
+      "name": "MD REZAUL ISLAM"
+>>>>>>> Stashed changes
     }
   ]
 }
