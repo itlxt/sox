@@ -3,37 +3,19 @@
     {
       "id": "1090302026SCID125",
       "name": "JARIN TASNIM MIM",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-      "xp_points": 2782,
-      "level": "🏅 Achiever",
-=======
       "xp_points": 2834,
->>>>>>> Stashed changes
       "last_updated": "2025-10-02 07:41:12"
     },
     {
       "id": "1090302026OTHD145",
       "name": "TANJINA AKTER ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-      "xp_points": 2549,
-      "level": "🏅 Achiever",
-=======
       "xp_points": 2678,
->>>>>>> Stashed changes
       "last_updated": "2025-10-30 19:06:50"
     },
     {
       "id": "1090302026SCID118",
       "name": "MARJAN SHATHI ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-      "xp_points": 2480,
-      "level": "🏅 Achiever",
-=======
       "xp_points": 2509,
->>>>>>> Stashed changes
       "last_updated": "2025-10-29 19:30:57"
     },
     {
@@ -43,19 +25,6 @@
       "last_updated": "2025-11-03 09:10:11"
     },
     {
-<<<<<<< Updated upstream
-      "id": "1146782026HUMD1140",
-      "name": "ESRAT JAHAN TOMA ",
-      "group": "HUMANITIES",
-      "xp_points": 1156,
-      "level": "🎯 Explorer",
-      "last_updated": "2025-12-06 01:00:26"
-    },
-    {
-      "id": "1090302026114",
-      "name": "MOUMININA HASAN MIM",
-      "group": "OTHERS",
-=======
       "id": "1146782026OTHD1114",
       "name": "RINI ISLAM",
       "xp_points": 1181,
@@ -70,24 +39,14 @@
     {
       "id": "1090302026SCID114",
       "name": "MOUMININA HASAN MIM",
->>>>>>> Stashed changes
       "xp_points": 1135,
       "last_updated": "2025-10-30 17:55:11"
     },
     {
-<<<<<<< Updated upstream
-      "id": "11467820261114",
-      "name": "RINI ISLAM",
-      "group": "OTHERS",
-      "xp_points": 996,
-      "level": "📘 Learner",
-      "last_updated": "2025-11-03 15:40:27"
-=======
       "id": "1146782026OTHD1140",
       "name": "ESRAT JAHAN TOMA ",
       "xp_points": 1125,
       "last_updated": "2025-10-04 15:21:27"
->>>>>>> Stashed changes
     },
     {
       "id": "2235562027SCID299",
@@ -96,45 +55,6 @@
       "last_updated": "2025-11-06 17:35:32"
     },
     {
-<<<<<<< Updated upstream
-      "id": "1090302026110",
-      "name": "SAMIA SULTANA PUSPO",
-      "group": "OTHERS",
-      "xp_points": 892,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-28 09:58:40"
-    },
-    {
-      "id": "11467820261111",
-      "name": "SADIA AKTER",
-      "group": "OTHERS",
-      "xp_points": 772,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-28 08:21:26"
-    },
-    {
-      "id": "109030202561",
-      "name": "MST.MONIKA AKTER",
-      "xp_points": 705,
-      "level": "📘 Learner",
-      "last_updated": "2025-11-03 17:46:32"
-    },
-    {
-      "id": "1090302026346",
-      "name": "MST.SOMIYA",
-      "group": "OTHERS",
-      "xp_points": 689,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-30 15:41:05"
-    },
-    {
-      "id": "1090302026117",
-      "name": "SADIA MEHNAJ",
-      "group": "OTHERS",
-      "xp_points": 654,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-29 12:13:50"
-=======
       "id": "1090302026OTHD346",
       "name": "MST.SOMIYA",
       "xp_points": 810,
@@ -145,7 +65,6 @@
       "name": "SADIA AKTER",
       "xp_points": 772,
       "last_updated": "2025-10-28 08:21:26"
->>>>>>> Stashed changes
     },
     {
       "id": "1090302025BUSD61",
@@ -156,13 +75,7 @@
     {
       "id": "1090302026SCID338",
       "name": "SARMIN AKTAR MONA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-      "xp_points": 641,
-      "level": "📘 Learner",
-=======
       "xp_points": 692,
->>>>>>> Stashed changes
       "last_updated": "2025-10-27 18:30:51"
     },
     {
@@ -174,10 +87,6 @@
     {
       "id": "1090302027BUSD24",
       "name": "TANZILA JANNAT SUCHI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 578,
       "last_updated": "2025-11-03 18:07:49"
     },
@@ -196,30 +105,18 @@
     {
       "id": "1090302027BUSD355",
       "name": "FARHANA AKTER MIM",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 540,
       "last_updated": "2025-11-07 19:20:23"
     },
     {
       "id": "1090302027BUSD380",
       "name": "FAHMIDA TUSLIM RATRI",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 471,
       "last_updated": "2025-11-22 22:24:25"
     },
     {
       "id": "1090302027BUSM532534",
       "name": "AFRIN JAHAN TITHI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 450,
       "last_updated": "2025-11-23 15:15:14"
     },
@@ -232,30 +129,18 @@
     {
       "id": "1146782026OTHD218",
       "name": "BORSHA KHAN",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 432,
       "last_updated": "2025-11-05 13:24:43"
     },
     {
       "id": "1090302027SCID451",
       "name": "SHAMOLY AKTER REYA ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 417,
       "last_updated": "2025-11-03 17:25:24"
     },
     {
       "id": "1090302025BUSM26",
       "name": "MARUFA AKTER JUI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 413,
       "last_updated": "2025-11-17 18:40:32"
     },
@@ -274,10 +159,6 @@
     {
       "id": "1090302027SCID341",
       "name": "FATEMA HOSSAIN",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 388,
       "last_updated": "2025-10-30 19:23:38"
     },
@@ -302,39 +183,18 @@
     {
       "id": "1090302026SCID115",
       "name": "TAHSIN BINTE AMIN",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 364,
       "last_updated": "2025-11-01 09:27:20"
     },
     {
-<<<<<<< Updated upstream
-      "id": "109030202768",
-      "name": "KARIMUN SARKAR LAMIA",
-      "xp_points": 353,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-27 18:41:07"
-    },
-    {
-      "id": "1090302027125",
-      "name": "SADIA AKTER",
-      "group": "OTHERS",
-=======
       "id": "1090302027BUSD125",
       "name": "SADIA AKTER",
->>>>>>> Stashed changes
       "xp_points": 348,
       "last_updated": "2025-10-29 21:09:24"
     },
     {
       "id": "1090302027BUSD365",
       "name": "SOSTY DEVNATH",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 339,
       "last_updated": "2025-11-13 15:08:39"
     },
@@ -353,10 +213,6 @@
     {
       "id": "1090302027BUSM93",
       "name": "AFROGA AKTER AKHI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 324,
       "last_updated": "2025-11-08 12:11:36"
     },
@@ -381,20 +237,12 @@
     {
       "id": "1146782026OTHD1107",
       "name": "SHANTA AKTAR",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 299,
       "last_updated": "2025-10-28 08:21:32"
     },
     {
       "id": "1090302026BUSD0099",
       "name": "SADIRA JAHAN TAKFY",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 297,
       "last_updated": "2025-10-28 18:29:45"
     },
@@ -419,20 +267,12 @@
     {
       "id": "1090302027OTHD305",
       "name": "SAMIA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 258,
       "last_updated": "2025-10-31 13:08:39"
     },
     {
       "id": "1090302027BUSD49",
       "name": "MISHKATE NOOR MAGHLA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 257,
       "last_updated": "2025-11-02 16:43:08"
     },
@@ -457,10 +297,6 @@
     {
       "id": "1090302026BUSD427",
       "name": "MOHONA MOLLA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 242,
       "last_updated": "2025-10-28 20:20:09"
     },
@@ -479,20 +315,12 @@
     {
       "id": "1090302026OTHD418",
       "name": "AFIAJAHANAFRIN",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 235,
       "last_updated": "2025-10-27 21:10:24"
     },
     {
       "id": "1090302026SCID233",
       "name": "TASMIA RIM ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 233,
       "last_updated": "2025-10-30 18:49:44"
     },
@@ -529,20 +357,12 @@
     {
       "id": "1090302026BUSD94",
       "name": "ESRAT JAHAN TABIYA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 228,
       "last_updated": "2025-11-06 21:00:30"
     },
     {
       "id": "1090302027BUSD307",
       "name": "MST.ZAKIA SULTANA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 227,
       "last_updated": "2025-11-24 11:17:17"
     },
@@ -555,20 +375,12 @@
     {
       "id": "1090302026BUSD252",
       "name": "SADIA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 224,
       "last_updated": "2025-11-09 10:34:07"
     },
     {
       "id": "1090302026BUSD158",
       "name": "TAHMINA AKTER TAMANNA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 218,
       "last_updated": "2025-11-09 10:32:33"
     },
@@ -581,10 +393,6 @@
     {
       "id": "1090302026BUSD201",
       "name": "CHAITY",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 212,
       "last_updated": "2025-11-09 06:56:07"
     },
@@ -603,27 +411,11 @@
     {
       "id": "1090302026BUSD24",
       "name": "KOTHA SAHA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 184,
       "last_updated": "2025-11-10 00:13:42"
     },
     {
-<<<<<<< Updated upstream
-      "id": "11474220262166",
-      "name": "PROTIMA SHIL",
-      "group": "OTHERS",
-      "xp_points": 179,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-28 15:01:34"
-    },
-    {
-      "id": "109030202703",
-=======
       "id": "1090302027SCID03",
->>>>>>> Stashed changes
       "name": "MAHFUZA SULTANA",
       "xp_points": 178,
       "last_updated": "2025-10-30 18:06:03"
@@ -649,37 +441,17 @@
     {
       "id": "1090302027BUSM48",
       "name": "TAJMUN FIDDA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 168,
       "last_updated": "2025-11-12 22:59:17"
     },
     {
       "id": "1090302026BUSD258",
       "name": "RIFATUNNESA HUMAIRA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 166,
       "last_updated": "2025-11-08 22:04:39"
     },
     {
-<<<<<<< Updated upstream
-      "id": "1090302027366",
-      "name": "TRINA RANI SUTRADHAR",
-      "group": "OTHERS",
-      "xp_points": 166,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-23 11:46:34"
-    },
-    {
-      "id": "1090302027HUMM114",
-=======
       "id": "1090302027OTHDHUMM114",
->>>>>>> Stashed changes
       "name": "MALIHA AKTER FAHIMA ",
       "xp_points": 165,
       "last_updated": "2025-11-04 20:29:10"
@@ -705,10 +477,6 @@
     {
       "id": "1090302027BUSD150",
       "name": "SHABIHA AFTER EMA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 155,
       "last_updated": "2025-10-28 19:43:30"
     },
@@ -749,20 +517,8 @@
       "last_updated": "2025-11-02 16:37:25"
     },
     {
-      "id": "11467820261007",
-      "name": "NUHSANAT TASNIA",
-      "group": "OTHERS",
-      "xp_points": 140,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-12-10 16:04:00"
-    },
-    {
       "id": "1090302026BUSM246",
       "name": "MASUMA AREFIN DIPA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 139,
       "last_updated": "2025-11-07 19:36:51"
     },
@@ -787,10 +543,6 @@
     {
       "id": "1090302027OTHD398",
       "name": "SHIPA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 129,
       "last_updated": "2025-11-13 21:30:56"
     },
@@ -809,20 +561,12 @@
     {
       "id": "1090302027BUSD149",
       "name": "JAHIN MAISHA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 120,
       "last_updated": "2025-11-09 12:39:47"
     },
     {
       "id": "1090302027BUSD198",
       "name": "TANJILA AFRIN RATRI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 118,
       "last_updated": "2025-11-24 21:11:51"
     },
@@ -835,10 +579,6 @@
     {
       "id": "1090302026BUSD187",
       "name": "NUSRAT JAHAN NUPOR",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 116,
       "last_updated": "2025-11-09 08:02:33"
     },
@@ -855,11 +595,6 @@
       "last_updated": "2025-11-24 20:15:07"
     },
     {
-<<<<<<< Updated upstream
-      "id": "1146782026691",
-      "name": "SANJIDA AKTER",
-      "group": "OTHERS",
-=======
       "id": "1146782026SCID1007",
       "name": "NUHSANAT TASNIA",
       "xp_points": 115,
@@ -868,7 +603,6 @@
     {
       "id": "1146782026OTHD691",
       "name": "SANJIDA AKTER",
->>>>>>> Stashed changes
       "xp_points": 114,
       "last_updated": "2025-12-03 09:31:25"
     },
@@ -941,10 +675,6 @@
     {
       "id": "1090302026BUSD75",
       "name": "JANNAT TARA RAKHI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 101,
       "last_updated": "2025-11-08 10:28:05"
     },
@@ -963,20 +693,12 @@
     {
       "id": "1090302025SCID121363",
       "name": "SHAIRA ISLAM ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 99,
       "last_updated": "2025-10-27 18:24:08"
     },
     {
       "id": "1090302027BUSM235",
       "name": "MIFTAHOUL JANNAT SELME ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 98,
       "last_updated": "2025-11-24 20:07:08"
     },
@@ -989,10 +711,6 @@
     {
       "id": "1090302026BUSD259",
       "name": "TAHMINA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 96,
       "last_updated": "2025-11-09 19:42:40"
     },
@@ -1005,10 +723,6 @@
     {
       "id": "1090302026BUSD406",
       "name": "SHANTA AKTER RUBI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 92,
       "last_updated": "2025-11-09 20:44:19"
     },
@@ -1033,10 +747,6 @@
     {
       "id": "1090302026BUSM19",
       "name": "SHRABONTI CHANDA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 85,
       "last_updated": "2025-11-08 21:57:19"
     },
@@ -1067,10 +777,6 @@
     {
       "id": "1090302026BUSM257",
       "name": "HALIMA TUZ SADIA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 82,
       "last_updated": "2025-11-08 21:11:27"
     },
@@ -1095,10 +801,6 @@
     {
       "id": "1090302026BUSD262",
       "name": "JANNATUL FERDOUS AKHI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 78,
       "last_updated": "2025-11-26 18:17:57"
     },
@@ -1129,40 +831,24 @@
     {
       "id": "1090302027BUSM407",
       "name": "SHARMIN KHATUN ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 71,
       "last_updated": "2025-11-25 18:04:19"
     },
     {
       "id": "1146782026SCID1003",
       "name": "NADIA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 70,
       "last_updated": "2025-11-13 10:50:12"
     },
     {
       "id": "1090302026BUSD368",
       "name": "MST.SUMAIYA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 69,
       "last_updated": "2025-11-02 19:19:19"
     },
     {
       "id": "1090302026OTHD325",
       "name": "ALEMATUSSADIA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 69,
       "last_updated": "2025-11-08 10:34:35"
     },
@@ -1205,10 +891,6 @@
     {
       "id": "1090302026BUSD275",
       "name": "SIRAJUM MONIRA ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 63,
       "last_updated": "2025-11-10 18:29:16"
     },
@@ -1227,10 +909,6 @@
     {
       "id": "1090302026BUSD317",
       "name": "FARIA AFRIN",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 60,
       "last_updated": "2025-11-10 08:52:24"
     },
@@ -1261,10 +939,6 @@
     {
       "id": "1146782026OTHD1133",
       "name": "LIZA AKTHER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 53,
       "last_updated": "2025-10-28 08:21:29"
     },
@@ -1277,20 +951,12 @@
     {
       "id": "1090302026BUSD2655824",
       "name": "SHANTA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 51,
       "last_updated": "2025-11-09 22:16:44"
     },
     {
       "id": "1090302026BUSM148",
       "name": "SAKILA AKTER SALINA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 50,
       "last_updated": "2025-11-08 17:13:56"
     },
@@ -1315,10 +981,6 @@
     {
       "id": "1090302026BUSD66",
       "name": "LIZA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 48,
       "last_updated": "2025-11-08 11:59:32"
     },
@@ -1331,30 +993,18 @@
     {
       "id": "1090302026BUSM146",
       "name": "BILKISH ISLAM TOYA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 48,
       "last_updated": "2025-11-09 23:38:46"
     },
     {
       "id": "1090302027BUSD87",
       "name": "MUNNI AKTER MONI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 48,
       "last_updated": "2025-11-23 19:20:40"
     },
     {
       "id": "1090302026SCID169",
       "name": "TAHIA TASNIM ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 47,
       "last_updated": "2025-11-04 21:07:33"
     },
@@ -1379,20 +1029,12 @@
     {
       "id": "1090302026BUSD20",
       "name": "NUSRAT AFRIN ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 46,
       "last_updated": "2025-11-08 00:33:27"
     },
     {
       "id": "1090302027BUSM1",
       "name": "ABU HASNA ARINA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 46,
       "last_updated": "2025-11-23 09:58:17"
     },
@@ -1423,10 +1065,6 @@
     {
       "id": "1090302026BUSD214",
       "name": "LIZA AKTER NOPUR ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 44,
       "last_updated": "2025-12-03 20:22:02"
     },
@@ -1445,10 +1083,6 @@
     {
       "id": "1090302027BUSD324",
       "name": "SADIA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 43,
       "last_updated": "2025-11-25 07:31:51"
     },
@@ -1497,10 +1131,6 @@
     {
       "id": "1090302026BUSM26",
       "name": "MARUFA AKTER JUI ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 35,
       "last_updated": "2025-11-06 15:43:06"
     },
@@ -1513,10 +1143,6 @@
     {
       "id": "1090302027BUSD357",
       "name": "AYSHA SIDDIKE TANHA ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 35,
       "last_updated": "2025-11-24 18:38:17"
     },
@@ -1529,27 +1155,11 @@
     {
       "id": "1090302027BUSM19",
       "name": "NABILA BINTE MOSHAROF ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 34,
       "last_updated": "2025-11-23 19:43:51"
     },
     {
-<<<<<<< Updated upstream
-      "id": "11467920260443832",
-      "name": "PRITY RANI SARKAR ",
-      "group": "OTHERS",
-      "xp_points": 33,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-28 15:05:40"
-    },
-    {
-      "id": "1090302027HUMD148",
-=======
       "id": "1090302027OTHDHUMD148",
->>>>>>> Stashed changes
       "name": "MARYAM",
       "xp_points": 32,
       "last_updated": "2025-11-15 13:51:52"
@@ -1569,50 +1179,30 @@
     {
       "id": "1090302027BUSD410",
       "name": "RIJUANA RITU",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 27,
       "last_updated": "2025-11-24 17:56:51"
     },
     {
       "id": "1090302026BUSM427",
       "name": "MOHONA MOLLA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 25,
       "last_updated": "2025-11-08 07:02:34"
     },
     {
       "id": "1090302027BUSM513560",
       "name": "MUSLIMA ",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 25,
       "last_updated": "2025-11-11 17:08:03"
     },
     {
       "id": "1090302026BUSD208",
       "name": "JANNATI AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 25,
       "last_updated": "2025-11-12 18:55:47"
     },
     {
       "id": "1090302025BUSM436",
       "name": "MST JAKIA SULTANA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 25,
       "last_updated": "2025-11-13 21:37:37"
     },
@@ -1661,10 +1251,6 @@
     {
       "id": "1090302027BUSD134",
       "name": "LAMIYA FERDOUSH MIHA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 24,
       "last_updated": "2025-11-09 12:45:35"
     },
@@ -1683,30 +1269,18 @@
     {
       "id": "1090302027SCID121147",
       "name": "TANJILA TABASSUM ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 23,
       "last_updated": "2025-10-30 16:06:41"
     },
     {
       "id": "1090302026BUSD128",
       "name": "AFROZA HOSSAIN",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 23,
       "last_updated": "2025-11-07 12:45:52"
     },
     {
       "id": "1090302025BUSD444",
       "name": "KHADEZA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 23,
       "last_updated": "2025-11-08 17:20:00"
     },
@@ -1737,10 +1311,6 @@
     {
       "id": "1090302025BUSD236",
       "name": "SUMAIYA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 22,
       "last_updated": "2025-11-24 21:25:49"
     },
@@ -1753,20 +1323,12 @@
     {
       "id": "1090302027OTHD140",
       "name": "MST MAYESHA RASHID",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 21,
       "last_updated": "2025-10-30 19:05:51"
     },
     {
       "id": "1090302026BUSD169",
       "name": "MST. MASTURA MAHMUDA SADIA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 21,
       "last_updated": "2025-11-07 20:25:21"
     },
@@ -1797,10 +1359,6 @@
     {
       "id": "1042372027BUSD876457",
       "name": "ASHRAFUL ALAM",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 21,
       "last_updated": "2025-11-20 20:30:18"
     },
@@ -1813,20 +1371,12 @@
     {
       "id": "1090302027SCID257",
       "name": "MITHILA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 21,
       "last_updated": "2025-11-26 19:55:06"
     },
     {
       "id": "1146782026SCID1005",
       "name": "NUSRAT JAHAN ORPA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 20,
       "last_updated": "2025-10-28 21:18:10"
     },
@@ -1851,10 +1401,6 @@
     {
       "id": "1090302027BUSD180",
       "name": "MOST. AFRIN SULTANA TITHEE",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 20,
       "last_updated": "2025-11-25 07:30:43"
     },
@@ -1867,40 +1413,24 @@
     {
       "id": "1090302026BUSD147",
       "name": "PRITHA SAHA ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 17,
       "last_updated": "2025-11-06 20:22:57"
     },
     {
       "id": "1147432026OTHD226",
       "name": "MARIA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 16,
       "last_updated": "2025-10-28 15:02:24"
     },
     {
       "id": "1090302026BUSM159",
       "name": "TAHMINA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 15,
       "last_updated": "2025-11-10 15:18:22"
     },
     {
       "id": "1090302027BUSD319",
       "name": "MIMYEA ISLAM MEGHLA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 14,
       "last_updated": "2025-11-24 10:27:12"
     },
@@ -1913,40 +1443,24 @@
     {
       "id": "1146782026OTHD1163",
       "name": "SUMAIYA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 12,
       "last_updated": "2025-10-27 15:55:26"
     },
     {
       "id": "1090302027SCID101",
       "name": "SUMI ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 11,
       "last_updated": "2025-10-24 10:31:07"
     },
     {
       "id": "1146782026OTHD527",
       "name": "CHOITUS527@GMAIL.COM",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 11,
       "last_updated": "2025-10-27 15:53:44"
     },
     {
       "id": "1090302027BUSD442",
       "name": "EMA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 11,
       "last_updated": "2025-10-29 14:45:39"
     },
@@ -1959,10 +1473,6 @@
     {
       "id": "1090302027OTHD129",
       "name": "NUSRAT JAHAN KHUSBU",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 11,
       "last_updated": "2025-10-30 18:24:06"
     },
@@ -1975,30 +1485,18 @@
     {
       "id": "1090302026BUSM252",
       "name": "SADIA AKTER",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 10,
       "last_updated": "2025-11-05 12:54:25"
     },
     {
       "id": "1090302026BUSD348",
       "name": "MITHILA AKTER",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 10,
       "last_updated": "2025-11-07 07:56:48"
     },
     {
       "id": "1090302027OTHD106069",
       "name": "JANNATUL MAWA",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 9,
       "last_updated": "2025-10-30 20:24:56"
     },
@@ -2011,20 +1509,12 @@
     {
       "id": "1090302027BUSM166",
       "name": "MAHUYA FERDOUSI ZIM",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 9,
       "last_updated": "2025-11-23 18:51:57"
     },
     {
       "id": "1090302026BUSM173",
       "name": "AFSARA JANNAT",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 8,
       "last_updated": "2025-11-08 17:21:55"
     },
@@ -2043,20 +1533,12 @@
     {
       "id": "1146792026OTHD113",
       "name": "DIYA DAS",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 5,
       "last_updated": "2025-10-28 15:04:47"
     },
     {
       "id": "1090302025BUSD412",
       "name": "IKSHER AKTER EMU ",
-<<<<<<< Updated upstream
-      "group": "OTHERS",
-=======
->>>>>>> Stashed changes
       "xp_points": 5,
       "last_updated": "2025-11-02 09:12:59"
     },
@@ -2069,10 +1551,6 @@
     {
       "id": "1090302026BUSD270",
       "name": "CHADNI",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 2,
       "last_updated": "2025-11-06 19:34:09"
     },
@@ -2085,20 +1563,12 @@
     {
       "id": "1090302025BUSD410",
       "name": "RIJUANA RITU",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 1,
       "last_updated": "2025-11-05 17:26:09"
     },
     {
       "id": "1090302026BUSD298",
       "name": "JANNATUL MAWA MIRA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 1,
       "last_updated": "2025-11-06 19:42:35"
     },
@@ -2111,10 +1581,6 @@
     {
       "id": "1090302027BUSD245",
       "name": "TANJILAKTER TONIMA",
-<<<<<<< Updated upstream
-      "group": "BUSINESS",
-=======
->>>>>>> Stashed changes
       "xp_points": 1,
       "last_updated": "2025-11-24 21:01:03"
     },
