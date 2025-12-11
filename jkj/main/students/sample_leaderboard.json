@@ -961,6 +961,14 @@
       "last_updated": "2025-12-11 13:53:01"
     },
     {
+      "id": "1147432027HUMD641",
+      "name": "SOHA",
+      "group": "HUMANITIES",
+      "xp_points": 98,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-12-11 23:24:04"
+    },
+    {
       "id": "1090302027SCIM228563",
       "name": "ELMA JAMAN",
       "group": "SCIENCE",
@@ -1294,14 +1302,6 @@
       "xp_points": 54,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-03 21:03:49"
-    },
-    {
-      "id": "1147432027HUMD641",
-      "name": "SOHA",
-      "group": "HUMANITIES",
-      "xp_points": 54,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-12-10 19:22:16"
     },
     {
       "id": "1146782026HUMD1133",
