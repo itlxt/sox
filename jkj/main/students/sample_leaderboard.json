@@ -793,6 +793,14 @@
       "last_updated": "2025-11-09 22:43:21"
     },
     {
+      "id": "1090302026HUMD100",
+      "name": "NOOR",
+      "group": "HUMANITIES",
+      "xp_points": 124,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-12-16 16:48:17"
+    },
+    {
       "id": "1090302027SCID313",
       "name": "SANJIDA AKTHER MIM ",
       "group": "SCIENCE",
@@ -1079,14 +1087,6 @@
       "xp_points": 84,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-09 09:12:37"
-    },
-    {
-      "id": "1090302026HUMD100",
-      "name": "NOOR",
-      "group": "HUMANITIES",
-      "xp_points": 84,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-09 20:41:25"
     },
     {
       "id": "1090302027HUMD112",
