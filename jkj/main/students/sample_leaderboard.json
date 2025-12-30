@@ -623,6 +623,14 @@
       "last_updated": "2025-11-09 06:56:07"
     },
     {
+      "id": "1090302026BUSM401",
+      "name": "BVA MONI",
+      "group": "BUSINESS",
+      "xp_points": 206,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-12-30 13:09:47"
+    },
+    {
       "id": "1090302026325",
       "name": "ALEMATUSSADIA",
       "group": "OTHERS",
@@ -1483,14 +1491,6 @@
       "xp_points": 50,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-22 08:52:14"
-    },
-    {
-      "id": "1090302026BUSM401",
-      "name": "BVA MONI",
-      "group": "BUSINESS",
-      "xp_points": 49,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-12-29 18:50:09"
     },
     {
       "id": "1090302026BUSD66",
