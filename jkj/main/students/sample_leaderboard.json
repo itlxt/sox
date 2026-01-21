@@ -1126,6 +1126,14 @@
       "last_updated": "2025-11-23 20:38:35"
     },
     {
+      "id": "1090302026SCID213",
+      "name": "JANNATUL BINTE SALAM",
+      "group": "SCIENCE",
+      "xp_points": 97,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-01-21 15:13:12"
+    },
+    {
       "id": "1090302026BUSD259",
       "name": "TAHMINA AKTER",
       "group": "BUSINESS",
@@ -1388,14 +1396,6 @@
       "xp_points": 65,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-03 22:31:14"
-    },
-    {
-      "id": "1090302026SCID213",
-      "name": "JANNATUL BINTE SALAM",
-      "group": "SCIENCE",
-      "xp_points": 64,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-01-17 17:18:51"
     },
     {
       "id": "1090302026SCIM94",
