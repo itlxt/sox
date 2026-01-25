@@ -105,6 +105,14 @@
       "last_updated": "2025-12-20 00:08:19"
     },
     {
+      "id": "1090302026SCIM75",
+      "name": "JANNATUL FERDOUS",
+      "group": "SCIENCE",
+      "xp_points": 1008,
+      "level": "🎯 Explorer",
+      "last_updated": "2026-01-26 05:22:17"
+    },
+    {
       "id": "1090302027HUMD1",
       "name": "KAZI JANNATUN NUR ",
       "group": "HUMANITIES",
@@ -215,14 +223,6 @@
       "xp_points": 599,
       "level": "📘 Learner",
       "last_updated": "2025-12-14 23:23:15"
-    },
-    {
-      "id": "1090302026SCIM75",
-      "name": "JANNATUL FERDOUS",
-      "group": "SCIENCE",
-      "xp_points": 599,
-      "level": "📘 Learner",
-      "last_updated": "2026-01-25 15:12:42"
     },
     {
       "id": "1090302027BUSD24",
