@@ -758,6 +758,14 @@
       "last_updated": "2026-01-07 08:29:40"
     },
     {
+      "id": "1090302027SCID06",
+      "name": "GAZI MUNA",
+      "group": "SCIENCE",
+      "xp_points": 191,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-04-25 22:07:25"
+    },
+    {
       "id": "1090302027398",
       "name": "SHIPA",
       "group": "OTHERS",
@@ -2342,14 +2350,6 @@
       "xp_points": 23,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-09 20:32:08"
-    },
-    {
-      "id": "1090302027SCID06",
-      "name": "GAZI MUNA",
-      "group": "SCIENCE",
-      "xp_points": 23,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-24 23:28:30"
     },
     {
       "id": "1090302027366",
