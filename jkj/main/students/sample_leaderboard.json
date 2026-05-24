@@ -1293,6 +1293,14 @@
       "last_updated": "2025-11-04 22:01:06"
     },
     {
+      "id": "1090302027BUSM404",
+      "name": "ZAINUB JANNAT",
+      "group": "BUSINESS",
+      "xp_points": 100,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-05-24 11:14:00"
+    },
+    {
       "id": "1090302027HUMD100",
       "name": "MITU AKTER LIZA",
       "group": "HUMANITIES",
@@ -2366,14 +2374,6 @@
       "xp_points": 25,
       "level": "🔰 Newcomer",
       "last_updated": "2026-04-26 02:59:21"
-    },
-    {
-      "id": "1090302027BUSM404",
-      "name": "ZAINUB JANNAT",
-      "group": "BUSINESS",
-      "xp_points": 25,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-05-23 13:55:12"
     },
     {
       "id": "1090302027SCID178",
