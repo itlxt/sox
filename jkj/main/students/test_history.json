@@ -42,7 +42,16 @@
         }
       },
       "chapterTests" : {
-
+        "4_2" : {
+          "attemptCount" : 1,
+          "bestPercentage" : 88,
+          "bestScore" : 22,
+          "bestXP" : 59,
+          "chapterId" : "4",
+          "lastAttemptDate" : "2026-06-16T14:54:12Z",
+          "segmentNumber" : 2,
+          "totalQuestions" : 25
+        }
       },
       "studentID" : "1234562026HUMD501084"
     }
