@@ -2066,6 +2066,14 @@
       "last_updated": "2025-12-12 23:15:32"
     },
     {
+      "id": "1090302027SCIM174",
+      "name": "HABIBA",
+      "group": "SCIENCE",
+      "xp_points": 46,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-06-18 20:31:09"
+    },
+    {
       "id": "1090302026SCID13",
       "name": "SAMIA ALAM",
       "group": "SCIENCE",
@@ -2662,14 +2670,6 @@
       "xp_points": 22,
       "level": "🔰 Newcomer",
       "last_updated": "2026-02-01 20:25:35"
-    },
-    {
-      "id": "1090302027SCIM174",
-      "name": "HABIBA",
-      "group": "SCIENCE",
-      "xp_points": 22,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-06-11 22:37:51"
     },
     {
       "id": "1090302027HUMD140",
