@@ -1477,6 +1477,14 @@
       "last_updated": "2026-01-18 11:27:04"
     },
     {
+      "id": "1090302026HUMD280",
+      "name": "HAFSA",
+      "group": "HUMANITIES",
+      "xp_points": 92,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-06-21 08:51:12"
+    },
+    {
       "id": "1090302026SCID297",
       "name": "ELMA ISLAM SIMI",
       "group": "SCIENCE",
@@ -1888,14 +1896,6 @@
       "xp_points": 53,
       "level": "🔰 Newcomer",
       "last_updated": "2026-06-13 13:54:57"
-    },
-    {
-      "id": "1090302026HUMD280",
-      "name": "HAFSA",
-      "group": "HUMANITIES",
-      "xp_points": 53,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-06-19 09:10:00"
     },
     {
       "id": "1090302026HUMD227",
