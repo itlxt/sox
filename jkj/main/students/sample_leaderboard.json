@@ -790,6 +790,14 @@
       "last_updated": "2025-12-28 13:36:37"
     },
     {
+      "id": "1090302026HUMD280",
+      "name": "HAFSA",
+      "group": "HUMANITIES",
+      "xp_points": 200,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-06-23 20:59:23"
+    },
+    {
       "id": "1090302027SCID259",
       "name": "MAZRIHA SULTANA MEDHA ",
       "group": "SCIENCE",
@@ -1475,14 +1483,6 @@
       "xp_points": 92,
       "level": "🔰 Newcomer",
       "last_updated": "2026-01-18 11:27:04"
-    },
-    {
-      "id": "1090302026HUMD280",
-      "name": "HAFSA",
-      "group": "HUMANITIES",
-      "xp_points": 92,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-06-21 08:51:12"
     },
     {
       "id": "1090302026SCID297",
