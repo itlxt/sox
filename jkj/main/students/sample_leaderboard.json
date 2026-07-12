@@ -1557,6 +1557,14 @@
       "last_updated": "2026-06-15 23:50:40"
     },
     {
+      "id": "1090302027SCIM131",
+      "name": "SANIYA",
+      "group": "SCIENCE",
+      "xp_points": 86,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-07-12 19:40:51"
+    },
+    {
       "id": "1090302026BUSM19",
       "name": "SHRABONTI CHANDA",
       "group": "BUSINESS",
@@ -2325,14 +2333,6 @@
       "xp_points": 35,
       "level": "🔰 Newcomer",
       "last_updated": "2025-12-15 17:21:58"
-    },
-    {
-      "id": "1090302027SCIM131",
-      "name": "SANIYA",
-      "group": "SCIENCE",
-      "xp_points": 35,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-04-25 20:24:37"
     },
     {
       "id": "1090302025SCID187",
