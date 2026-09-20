@@ -289,6 +289,14 @@
       "last_updated": "2025-11-24 09:42:14"
     },
     {
+      "id": "1090302027SCIM14",
+      "name": "TAYIBA TAHSIN RIZMI",
+      "group": "SCIENCE",
+      "xp_points": 511,
+      "level": "📘 Learner",
+      "last_updated": "2026-09-20 21:46:57"
+    },
+    {
       "id": "1146782026HUMD1107",
       "name": "SHANTA AKTAR",
       "group": "HUMANITIES",
@@ -303,14 +311,6 @@
       "xp_points": 471,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-22 22:24:25"
-    },
-    {
-      "id": "1090302027SCIM14",
-      "name": "TAYIBA TAHSIN RIZMI",
-      "group": "SCIENCE",
-      "xp_points": 464,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-09-02 22:54:35"
     },
     {
       "id": "1090302027SCID331",
