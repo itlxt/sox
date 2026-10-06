@@ -799,6 +799,14 @@
       "last_updated": "2025-11-04 15:48:42"
     },
     {
+      "id": "1090302027SCIM131",
+      "name": "SANIYA",
+      "group": "SCIENCE",
+      "xp_points": 229,
+      "level": "🔰 Newcomer",
+      "last_updated": "2026-10-06 18:40:13"
+    },
+    {
       "id": "1090302026BUSD94",
       "name": "ESRAT JAHAN TABIYA",
       "group": "BUSINESS",
@@ -1084,14 +1092,6 @@
       "xp_points": 147,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-12 12:59:39"
-    },
-    {
-      "id": "1090302027SCIM131",
-      "name": "SANIYA",
-      "group": "SCIENCE",
-      "xp_points": 146,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-09-10 22:11:09"
     },
     {
       "id": "1090302027HUMD100",
