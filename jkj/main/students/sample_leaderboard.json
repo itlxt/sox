@@ -281,6 +281,14 @@
       "last_updated": "2026-03-12 00:17:57"
     },
     {
+      "id": "1090302027SCIM14",
+      "name": "TAYIBA TAHSIN RIZMI",
+      "group": "SCIENCE",
+      "xp_points": 624,
+      "level": "📘 Learner",
+      "last_updated": "2026-10-06 15:33:45"
+    },
+    {
       "id": "1090302027BUSD355",
       "name": "FARHANA AKTER MIM",
       "group": "BUSINESS",
@@ -303,14 +311,6 @@
       "xp_points": 578,
       "level": "📘 Learner",
       "last_updated": "2026-10-04 16:26:40"
-    },
-    {
-      "id": "1090302027SCIM14",
-      "name": "TAYIBA TAHSIN RIZMI",
-      "group": "SCIENCE",
-      "xp_points": 576,
-      "level": "📘 Learner",
-      "last_updated": "2026-10-04 14:51:54"
     },
     {
       "id": "1090302026SCID74",
