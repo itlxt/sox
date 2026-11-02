@@ -337,6 +337,14 @@
       "last_updated": "2026-01-26 14:15:25"
     },
     {
+      "id": "1090302027HUMD53",
+      "name": "RAZIA SULTANA",
+      "group": "HUMANITIES",
+      "xp_points": 565,
+      "level": "📘 Learner",
+      "last_updated": "2026-11-02 17:49:37"
+    },
+    {
       "id": "1090302026SCID115",
       "name": "TAHSIN BINTE AMIN",
       "group": "SCIENCE",
@@ -359,14 +367,6 @@
       "xp_points": 543,
       "level": "📘 Learner",
       "last_updated": "2026-10-04 11:56:26"
-    },
-    {
-      "id": "1090302027HUMD53",
-      "name": "RAZIA SULTANA",
-      "group": "HUMANITIES",
-      "xp_points": 495,
-      "level": "🔰 Newcomer",
-      "last_updated": "2026-10-04 21:54:11"
     },
     {
       "id": "1146782026HUMD1107",
